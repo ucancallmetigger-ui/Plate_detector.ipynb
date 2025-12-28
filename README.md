@@ -94,7 +94,7 @@ Before detection and recognition, each image is passed through a preprocessing p
 -Impact:
 This preprocessing pipeline significantly improves detection confidence and OCR accuracy, especially under challenging lighting conditions.
 
->>>Detection & Recognition Workflow
+>>Detection & Recognition Workflow
 
 The complete pipeline operates as follows:
 

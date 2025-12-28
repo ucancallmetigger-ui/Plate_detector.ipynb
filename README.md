@@ -31,7 +31,7 @@ YOLOv8 is chosen due to its:
 
 -Robust performance under varying lighting and backgrounds
 
->>>License Plate OCR
+>>License Plate OCR
 
 >Model: crnn-fa-license-plate-recognition-v2
 
@@ -49,7 +49,7 @@ The CRNN model is well-suited for license plate recognition because it:
 
 -Handles variable-length text without explicit character segmentation
 
->>>Image Preprocessing Pipeline
+>>Image Preprocessing Pipeline
 
 Before detection and recognition, each image is passed through a preprocessing pipeline to improve visual clarity and OCR performance.
 
